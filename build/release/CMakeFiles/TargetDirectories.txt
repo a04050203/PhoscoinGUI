@@ -1,0 +1,13 @@
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/package.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/PhoscoinCli.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/package_source.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/qrencode.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/edit_cache.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/rebuild_cache.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/install/strip.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/phoscoin.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/list_install_components.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/install.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/install/local.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/PhoscoinCli_autogen.dir
+/home/runa/Desktop/PhoscoinGui/build/release/CMakeFiles/phoscoin_autogen.dir
