@@ -1,6 +1,6 @@
 [submodule "libqrencode"]
 	path = libqrencode
 	url = https://github.com/Nur1Labs/libqrencode.git
-[submodule "WayangCli"]
-	path = WayangCli
-	url = https://github.com/FndNur1Labs/WayangCli.git
+[submodule "PhoscoinCli"]
+	path = PhoscoinCli
+	url = https://github.com/Phoscoin/Phoscoin.git
