@@ -8,7 +8,7 @@ open terminal
 then do this command : 
 
     git clone https://github.com/Phoscoin/PhoscoinGUI
-    cd PhoscoinGui
+    cd PhoscoinGUI
     git clone https://github.com/Phoscoin/Phoscoin PhoscoinCli
     
 then try this:
